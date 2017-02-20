@@ -1,9 +1,9 @@
 <?php
 use App\Http\Controllers\BotManController;
 // Don't use the Facade in here to support the RTM API too :)
-$botman->verifyServices('facebookMartisorToken');
-$botman = resolve('botman');
 
+$botman = resolve('botman');
+$botman->verifyServices('facebookMartisorToken');
 $botman->hears('test', function($bot){
     $bot->reply('hello!');
 });
