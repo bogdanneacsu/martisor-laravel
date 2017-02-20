@@ -48,6 +48,6 @@ return [
         'slack_token' => env('SLACK_TOKEN'),
         'telegram_token' => env('TELEGRAM_TOKEN'),
         'facebook_token' => 'facebookMartisorToken',
-        'facebook_app_secret' => 'EAASDZAXZCTSZCoBABu94tbCTYHu8Jh9pUwQ8m8oKeJdKmchWsFM7NA0JAFVPAnI82J0aUO2hN8hypfzm15XCw5CYRQ1ZAHZBxMNZBfftwNDGd9JjWQGEI5BwtwyocQUZB2SLHv0eolaCYrZBoS9EcQZB1HeyTmZB5C3ZA2vg6CyKU0XzgZDZD'
+        'facebook_app_secret' => 'EAASDZAXZCTSZCoBAGw8eU36RipfVB5cs6RXzJf3xVVPzliQpVXAj6ZAZBFxrgQvjkVqhQVuY095hmObQiXD3yLEwONAZCdhVz87FnN2MKkMIIP89SFEHoh8AI43T17GxWcUUyZBGJt4EXV6ySDmZCbXyAjP6z2ra6uUBVXwnGBNPVgZDZD'
     ],
 ];
